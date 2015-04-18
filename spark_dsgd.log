@@ -1,0 +1,31 @@
+---------------------------------------------------
+Autograding ...
+---------------------------------------------------
+The stderr will be logged to file  /tmp/eval_acc.log
+command you are executing  spark-submit dsgd_mf.py 20 3 100 0.9 3.5 autolab_train.csv w.csv h.csv dsgd.log
+Analyzing your memory usage and Efficiency..
+
+testing  1
+
+time (s): 41.1240770817
+memory (byte): 410644480
+testing  2
+
+time (s): 40.6636428833
+memory (byte): 410644480
+testing  3
+
+time (s): 39.5099451542
+memory (byte): 410644480
+testing  4
+
+time (s): 41.4694399834
+memory (byte): 410644480
+testing  5
+
+time (s): 43.1754188538
+memory (byte): 410644480
+
+
+average time usage (s): 41.1885047913
+average memory usage (byte): 410644480
